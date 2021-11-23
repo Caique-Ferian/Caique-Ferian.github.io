@@ -1,0 +1,71 @@
+h2, h3 {
+    font-family: 'Bebas Neue';
+    font-size: 40px;
+}
+p{
+    font-family: 'Ubuntu';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 20px;
+    color: black;
+}
+body {
+    background-color:lightskyblue;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.habilidades-mais-importantes{
+    font-family: 'Ubuntu';
+    font-weight: 700;
+    font-size: 25px;
+}
+.habilidades-importantes {
+    font-family: 'Ubuntu';
+    font-weight: 200;
+    font-size: 20px;
+
+}
+#picture {
+    border-radius: 25%;
+    float: left;
+    padding:20px;
+    background-color:#F5F5F5;
+    
+}
+div h2{
+    text-align: center;
+}
+
+#my-description{
+    height: 350px;
+}
+#my-description p{
+    position: absolute;
+    right: 650px;
+    top: 325px;
+}
+.minhas-redes{
+    position: absolute;
+    left:175px;
+}
+a:hover{
+    font-weight: bold;
+    font-size: 20px;
+}
+#meu-git{
+   margin-bottom: 10px;
+}
+#meu-git a:hover{
+    color: black;
+}
+#meu-linkedin a:hover{
+    color:#0a66c2;
+}
+
+.impar:hover{
+    text-decoration: underline;
+    background-color: #F5F5F5;
+}
+#lista{
+    width: 10%;
+}
